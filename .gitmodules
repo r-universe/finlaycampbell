@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "outbreaker2"]
 	path = outbreaker2
-	url = https://github.com/cran/outbreaker2
+	url = https://github.com/finlaycampbell/outbreaker2
